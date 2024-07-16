@@ -1,0 +1,27 @@
+.dish {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dish img {
+    display: block;
+    margin: 0 auto 10px;
+  }
+  
+  .dish button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .dish button:hover {
+    background-color: #0056b3;
+  }
+  
